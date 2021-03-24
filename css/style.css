@@ -12,13 +12,14 @@ header {
     height: 77vh;
 }
 
-.article {
+.daNav {
     background-color: salmon;
     border-radius: 5px;
     width: 15vw;
+    order: -1;
 }
 
-.daNav {
+.article {
     background-color: skyblue;
     border-radius: 5px;
     width: 68vw;;
